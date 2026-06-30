@@ -1,0 +1,66 @@
+# Build
+
+bin/
+obj/
+
+# User-specific files
+
+*.user
+*.rsuser
+*.suo
+
+# Visual Studio
+
+.vs/
+
+# VS Code
+
+.vscode/
+
+# Rider
+
+.idea/
+
+# Logs
+
+*.log
+
+# NuGet
+
+*.nupkg
+packages/
+.nuget/
+
+# .NET
+
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Publish
+
+publish/
+
+# Test Results
+
+TestResults/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Environment
+
+.env
+.env.*
+
+# Coverage
+
+coverage/
+*.coverage
+*.coveragexml
+
+# Generated files
+
+Generated/
